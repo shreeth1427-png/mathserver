@@ -29,7 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
-'''
+```
 
 html>
 <head>
@@ -132,7 +132,7 @@ urlpatterns = [
     path('powercalculator/',views.powercalc,name="powercalculator"),
     path('',views.powercalc,name="powercalculatorroot")
 ]
-'''
+```
 # SERVER SIDE PROCESSING:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2789232-2aa8-4a4e-b175-02c56ad40ec3" />
 
